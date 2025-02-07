@@ -1,0 +1,14 @@
+Copyright (c) 2025 captain error 
+
+All rights reserved.
+
+This software is provided "as-is" and may not be used, copied, distributed, or modified without express permission from the author. 
+
+You are not allowed to:
+1. Copy, reproduce, or redistribute this software in any form.
+2. Modify the code or create derivative works based on this software.
+3. Use this software for commercial purposes without prior consent from the author.
+
+You may use this software solely for legal and non-commercial purposes. Any unauthorized use of this software may result in legal action.
+
+For licensing inquiries or permission to use the software, please contact the author at captainerror696@gmail.com.
