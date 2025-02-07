@@ -1,3 +1,4 @@
+nano LICENSE
 Copyright (c) 2025 captain error 
 
 All rights reserved.
