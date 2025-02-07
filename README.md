@@ -8,3 +8,5 @@ This tool is designed for legal stress testing, primarily HTTP Flood attack simu
    ```bash
    git clone https://github.com/your-username/Captain-error-DDoS.git
    cd Captain-error-DDoS
+   pip install -r requirements.txt
+   python3 Captain-error-DDoS.py
